@@ -26,7 +26,7 @@ Built for hostel/office scenarios where friends order together from Swiggy, Blin
 ![Login Page](./catshare/assets/IMG-20260616-WA0021.jpg)
 
 ### 2. Register Page  
-![Register Page](./catshare/assets/IMG-20260616-WA0019.jpg)
+![Register Page](./catshare/assets/WhatsApp Image 2026-06-16 at 13.14.45.jpeg)
 
 ### 3. Dashboard - Empty Cart
 ![Dashboard Empty](./catshare/assets/IMG-20260616-WA0022.jpg)
